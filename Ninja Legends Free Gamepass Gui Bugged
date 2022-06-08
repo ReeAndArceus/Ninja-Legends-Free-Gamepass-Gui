@@ -1,5 +1,6 @@
 --Don't Know What's Wrong At This The Gui Wont Show--
 --Don't Steal--
+--Gui
 local NinjaGui = Instance.new("ScreenGui")
 
 local Frame = Instance.new("Frame")
